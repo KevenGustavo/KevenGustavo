@@ -1,6 +1,6 @@
 # Olá, eu sou Keven Gomes!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Data+Engineer;Full-Stack+Developer+(Laravel%2FPHP);Automating+Logistics+with+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Data+Engineer;Full-Stack+Developer;Data+Analyst" alt="Typing SVG" /></a>
 
 ---
 
