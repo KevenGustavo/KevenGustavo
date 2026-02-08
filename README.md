@@ -49,6 +49,6 @@ Pipeline de extração e carga de dados containerizado.
 
 ---
 
-### 📫 Contato
+### Contato
 - **LinkedIn:** [linkedin.com/keven-gomes](https://www.linkedin.com/in/keven-gomes)
 - **Email:** kevengustavo2012@gmail.com
