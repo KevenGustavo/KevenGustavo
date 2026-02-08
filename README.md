@@ -8,7 +8,7 @@ Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabal
 
 * **Atualmente:** Crio automações de ETL e ferramentas de observabilidade/analise de controle logístico na **Ambev**.
 * **Freelance:** Desenvolvo APIs REST e sistemas web completos (Laravel/Docker) para clientes reais.
-* **Formação:** Bacharel em Ciência e Tecnologia (Concluído) & Eng. da Computação (Em andamento) pela UFMA.
+* **Formação:** Bacharel em Ciência e Tecnologia (Concluído) & Engenharia da Computação (Em andamento) pela UFMA.
 
 ---
 
