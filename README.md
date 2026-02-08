@@ -1,6 +1,6 @@
 # Olá, eu sou o Keven Gomes! 
 
-### 🚀 Engenheiro de Computação em Formação | Full-Stack & Data Enthusiast
+### Engenheiro de Computação em Formação | Full-Stack & Data Enthusiast
 
 Atualmente, combino a agilidade do desenvolvimento **Full-Stack** com a precisão da **Engenharia de Dados** para resolver problemas reais de negócio. 
 
@@ -25,7 +25,7 @@ Atualmente, combino a agilidade do desenvolvimento **Full-Stack** com a precisã
 
 ---
 
-### Destaques do Portfólio
+### Projetos Destaque
 
 #### [Sistema de Gestão de Bens Patrimoniais(SGBP)](https://github.com/KevenGustavo/SGBP)
 *Líder Técnico & Desenvolvedor Full-Stack*
