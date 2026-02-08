@@ -6,9 +6,9 @@
 
 Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabalhos manuais repetitivos através de código limpo e arquitetura de dados robusta.
 
-* [cite_start] **Atualmente:** Crio automações de ETL e ferramentas de observabilidade/analise de controle logístico na **Ambev**[cite: 96, 98].
-* [cite_start] **Freelance:** Desenvolvo APIs REST e sistemas web completos (Laravel/Docker) para clientes reais[cite: 106].
-* [cite_start] **Formação:** Bacharel em Ciência e Tecnologia (Concluído) & Eng. da Computação (Em andamento) pela UFMA[cite: 116, 123].
+* **Atualmente:** Crio automações de ETL e ferramentas de observabilidade/analise de controle logístico na **Ambev**.
+* **Freelance:** Desenvolvo APIs REST e sistemas web completos (Laravel/Docker) para clientes reais.
+* **Formação:** Bacharel em Ciência e Tecnologia (Concluído) & Eng. da Computação (Em andamento) pela UFMA.
 
 ---
 
