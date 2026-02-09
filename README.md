@@ -27,8 +27,6 @@ Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabal
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
 ## **Projetos Destaque**
 
 #### [Sistema de Gestão de Bens Patrimoniais(SGBP)](https://github.com/KevenGustavo/SGBP)
@@ -42,8 +40,6 @@ Um ERP completo para controle de inventário.
 Pipeline de extração e carga de dados containerizado.
 - **Tech:** Python, Pandas, PostgreSQL, Docker.
 - **Destaque:** Orquestração de ambiente isolado para manipulação de dados.
-
----
 
 ### Contato
 - **LinkedIn:** [linkedin.com/keven-gomes](https://www.linkedin.com/in/keven-gomes)
