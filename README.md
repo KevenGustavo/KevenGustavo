@@ -1,8 +1,6 @@
-# Olá, eu sou Keven Gomes!
+# **Olá, eu sou Keven Gomes!**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Computer+Engineer;Data+Engineer;Full-Stack+Developer;Data+Analyst" alt="Typing SVG" /></a>
-
----
 
 ### Sobre mim
 
