@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Computer+Engineer;Data+Engineer;Full-Stack+Developer;Data+Analyst" alt="Typing SVG" /></a>
 
-### Sobre mim
+## **Sobre mim**
 
 Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabalhos manuais repetitivos através de código limpo e arquitetura de dados robusta.
 
@@ -10,9 +10,7 @@ Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabal
 * **Freelance:** Desenvolvo APIs REST e sistemas web completos (Laravel/Docker) para clientes reais.
 * **Formação:** Bacharel em Ciência e Tecnologia (Concluído) & Engenharia da Computação (Em andamento) pela UFMA.
 
----
-
-### Arsenal Técnico
+## **Arsenal Técnico**
 
 **Backend & Engenharia de Dados:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +29,7 @@ Sou um desenvolvedor focado em **eficiência**. Minha missão é eliminar trabal
 
 ---
 
-### Projetos Destaque
+## **Projetos Destaque**
 
 #### [Sistema de Gestão de Bens Patrimoniais(SGBP)](https://github.com/KevenGustavo/SGBP)
 *Líder Técnico & Desenvolvedor Full-Stack*
